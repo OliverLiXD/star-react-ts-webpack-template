@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstar_react_ts_webpack_template=self.webpackChunkstar_react_ts_webpack_template||[]).push([[320],{320:function(e,t,a){a.r(t);var c=a(7294);t.default=function(){return c.createElement("h3",null,"我是LazyDemo组件")}}}]);
