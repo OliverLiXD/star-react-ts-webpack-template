@@ -1,0 +1,13 @@
+@import "./utils";
+
+h2 {
+  color: pink;
+  transform: translateY(50px);
+}
+.box {
+  height: getRem(100px);
+  width: getRem(100px);
+  background: url("@/assets/img.png") no-repeat;
+  background-size: 100%;
+  // background-attachment: fixed;
+}

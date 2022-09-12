@@ -1,0 +1,3 @@
+@function getRem($pixel) {
+    @return ($pixel / 750px) * 100rem;
+}
