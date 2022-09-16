@@ -9,8 +9,8 @@ module.exports = {
         "corejs": 3
       }
     ],
+    "@babel/preset-typescript",
     "@babel/preset-react",
-    "@babel/preset-typescript"
   ],
   plugins: [
     ["@babel/plugin-proposal-decorators", { "legacy": true }],
