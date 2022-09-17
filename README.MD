@@ -2,7 +2,7 @@
 
 ------
 
-This project is template of [mystar-cli](https://www.npmjs.com/package/mystar-cli) project in npm. ❤
+This project is a template of [mystar-cli](https://www.npmjs.com/package/mystar-cli) project in npm. ❤
 
 #### Available Scripts
 
@@ -19,5 +19,5 @@ Builds your project in `dist` folder.
 
 ------
 
-That's all enjoy your coding ~ 🤞
+That's all, and enjoy your coding ~ 🤞
 
