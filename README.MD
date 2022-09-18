@@ -19,5 +19,5 @@ Builds your project in `dist` folder.
 
 ------
 
-That's all, and enjoy your coding ~ 🤞
+That's all, enjoy your coding ~ 🤞
 
